@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-1-0.1";
 const contentToCache = [
-    "Build/bolisim2.loader.js",
-    "Build/bolisim2.framework.js",
-    "Build/bolisim2.data",
-    "Build/bolisim2.wasm",
+    "Build/boli.loader.js",
+    "Build/boli.framework.js",
+    "Build/boli.data",
+    "Build/boli.wasm",
     "TemplateData/style.css"
 
 ];
